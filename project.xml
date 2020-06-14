@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="OpenflRaycast" package="com.sample.openflraycast" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="OpenflRaycast" />
+
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+
+	<assets path="Assets" />
+
+	<window width="800" height="600" resizable="false" fps="60" if="linux" />
+
+</project>
